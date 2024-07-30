@@ -1,14 +1,14 @@
 # 戴森球计划 种子推荐 | Dyson Sphere Project Seed Recommendation
 
 以下根据不同筛选条件，列举了全33亿种子中满足条件的所有种子。  
-特别感谢（条件制定与种子筛选）：<br>
+特别感谢（条件制定与种子筛选）：  
 According to different screening conditions, all the seeds that meet the conditions among the 3.3 billion seeds are listed below.
 Special thanks (condition formulation and seed screening):
 
 ```Text
 T-bit
-我的小马叫丁真 | My pony is Ding Zhen
-淡蓝记忆 | light blue memory
+我的小马叫丁真
+淡蓝记忆
 bWFuanVzYWth
 ```
 
@@ -46,7 +46,7 @@ bWFuanVzYWth
 |Filter |Explanation|
 |:-|:-|
 |3 Blue Giant|The power generation of a blue giant star is about 10 times that of an O star at the same luminosity|
-|Luminosity³Summation|Take Top 100|
+|Luminosity³ Summation|Take Top 100|
 
 ---
 
@@ -70,12 +70,12 @@ bWFuanVzYWth
 |:-|:-|
 |6 light-years|Easy to fly hard|
 |(Tropical) Grassland|There is no need to fly across planets after landing and warping|
-|O star|cool|
+|O star|Cool|
 |Pack No. 1 Star|Cool|
 |Full base mine|Cool|
 |Full Rare|Cool|
-|There is water|cool|
-|has sulfuric acid|cool|
-|High-yield gas giant|cool|
+|There is water|Cool|
+|has sulfuric acid|Cool|
+|High-yield gas giant|Cool|
 
 ---
