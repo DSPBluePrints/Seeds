@@ -10,6 +10,7 @@ T-bit
 我的小马叫丁真
 淡蓝记忆
 bWFuanVzYWth
+Soarqin
 ```
 
 ---
@@ -78,4 +79,10 @@ bWFuanVzYWth
 |has sulfuric acid|Cool|
 |High-yield gas giant|Cool|
 
+
+除了github，您可以通过这些方式联系我们： 
+
+```text
+QQ群：936739864 戴森球计划蓝图仓库维护群
+```
 ---
