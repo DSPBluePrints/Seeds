@@ -13,6 +13,26 @@ bWFuanVzYWth
 Soarqin
 ```
 
+除了github，您可以通过这些方式联系我们： (QQ群)  
+
+```text
+936739864 戴森球计划蓝图仓库
+```
+
+```text
+150369431 CIDT学院群
+
+914523440 小马蓝图5群
+611954295 小马蓝图4群
+342139527 小马蓝图3群
+949098605 小马蓝图2群
+
+752416362 重装小兔粉丝群
+
+791011229 TTenYX粉丝1群
+908799265 TTenYX粉丝2群
+```
+
 ---
 
 ## 极限糖厂 | Extreme Cube Factory
@@ -78,11 +98,3 @@ Soarqin
 |There is water|Cool|
 |has sulfuric acid|Cool|
 |High-yield gas giant|Cool|
-
-
-除了github，您可以通过这些方式联系我们： 
-
-```text
-QQ群：936739864 戴森球计划蓝图仓库维护群
-```
----
